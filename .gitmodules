@@ -1,3 +1,12 @@
 [submodule "Exercises/Exercises/ModulOpgave_3_sails_heroes"]
 	path = Exercises/Exercises/ModulOpgave_3_sails_heroes
 	url = https://github.com/Zamanien/ModulOpgave_3_Ships-Sails
+[submodule "Applications/Collab/Ships_And_Sails/sails_heroes"]
+	path = Applications/Collab/Ships_And_Sails/sails_heroes
+	url = https://github.com/Zamanien/ModulOpgave_3_Ships-Sails
+[submodule "Applications/Collab/Efix/efix"]
+	path = Applications/Collab/Efix/efix
+	url = https://github.com/Wajiddat18c/Modulopgave4_E-Fix
+[submodule "Applications/Collab/Crosswords/Crosswords"]
+	path = Applications/Collab/Crosswords/Crosswords
+	url = https://github.com/thiasmp/Modulopgave-2-Crosswords
